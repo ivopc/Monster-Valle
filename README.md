@@ -1,5 +1,5 @@
 # Monster Valle
-> Monster Valle, full-featured MMORPG based in Pokémon made with JavaScript, NodeJS, PhaserJS and websockets. 
+> Monster Valle, full-featured MMORPG based in Pokémon made with JavaScript, NodeJS, PhaserJS, VueJS and websockets. 
 > After years I turn that project code open and free to everyone.
 > The current situation is that I want to rewrite the older release to new one with a better architecture.
 
