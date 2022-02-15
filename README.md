@@ -3,12 +3,12 @@
 > After years I turn that project code open and free to everyone.
 > The current situation is that I want to rewrite the older release to new one with a better architecture.
 
-You can see notables mechanics here: https://ivopc.github.io/monster-valle/gallery.html#video 
+You can see notables mechanics here: https://ivopc.github.io/monster-valle/gallery.html#video
 
-And read more about: In a good creative solution, a "script language" was build on top of JSON to automate the gameclient/gameserver, most part of the game is full automated: level design, UIs, battle, network proccesses; personal architecture pattern was created to make the development and maintainability easy and clear.
-It have a lot to say about my skills as an engineer and architect, because I've created creative solutions that saved a lot of mounths of manual working.
+Notable features: PvP, Players Market Place, Quests, multiplayer real-time interactions, monster move learning and level up, party, items, storyline and etc.
 
-A lot of optimizing in game loading, of couse, because I am in a web platform that resources cannot be loaded at once, a lot of creative solutions involving dynamic load.
+In a good creative solution, a "script language" was build on top of JSON to automate the gameclient/gameserver, most part of the game is full automated: level design, UIs, battle, network proccesses; personal architecture pattern was created to make the development and maintainability easy and clear. Edit UI in Photoshop and send it directly to game in real-time. 
+It have a lot to say about my skills as an engineer and architect, because I've created creative solutions that saved a lot of mounths of manual working.A lot of optimizing in game loading, of couse, because I am in a web platform that resources cannot be loaded at once, a lot of creative solutions involving dynamic load.
 
 If you want to hire me: https://www.linkedin.com/in/ivo-camargo-97a670161/
 
