@@ -20,6 +20,8 @@ New GameServer: https://github.com/ivopc/new-mv-server
 
 Old GameServer (outdated): https://github.com/ivopc/old-mv-server
 
+(No guides available yet)
+
 # License
 The code of game source project is released under the MIT license.
 
