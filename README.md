@@ -3,8 +3,8 @@
 > The current situation is that I want to rewrite the older release to new one with a better architecture.
 
 The Old Game Client and and Old Game Server are avaliable here: https://monstervalle.onrender.com/
-You can see the mechanics here: https://www.youtube.com/@monstervalle6316/videos
 
+You can see the mechanics here: https://www.youtube.com/@monstervalle6316/videos
 
 
 Notable features: PvP, Players Market Place, Quests, multiplayer real-time interactions, monster move learning and level up, party, items, storyline and etc.
