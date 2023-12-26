@@ -2,7 +2,7 @@
 > Monster Valle, full-featured MMORPG based in Pokémon made with JavaScript, NodeJS, PhaserJS, VueJS and websockets. 
 > The current situation is that I want to rewrite the older release to new one with a better architecture.
 
-# Secretly I'm doing a closed-source release of my game :)
+# Secretly I'm doing a closed-source release of my game with TypeScript+Phaser3+NuxtJS+NestJS :)
 
 The Old Game Client and and Old Game Server are avaliable here: https://monstervalle.onrender.com/
 
