@@ -1,3 +1,8 @@
+<p align="center" width="100%">
+<img src="https://i.imgur.com/bh8ZbWe.png">
+</p>
+
+
 # Monster Valle
 > Monster Valle, full-featured MMORPG based in Pokémon made with JavaScript, NodeJS, PhaserJS, VueJS and websockets. 
 > The current situation is that I want to rewrite the older release to new one with a better architecture.
